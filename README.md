@@ -33,7 +33,7 @@ A BLAST-based sliding-window command-line tool for rapid classification of Influ
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SWAN.git
+git clone https://github.com/vasukk/NS-SWIFT.git
 cd SWAN
 ```
 
