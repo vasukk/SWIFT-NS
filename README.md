@@ -34,7 +34,7 @@ Clone the repository
 
 ```bash
 git clone https://github.com/vasukk/NS-SWIFT.git
-cd SWAN
+cd NS-SWIFT
 ```
 
 Install Python packages
