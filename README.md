@@ -1,4 +1,4 @@
-# NS-SWIFT
+# SWIFT-NS
 
 **NS Sliding Window Identification and Fast Typing**
 
